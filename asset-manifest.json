@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/test_task_solution/static/css/main.fb753fb5.chunk.css",
+    "main.js": "/test_task_solution/static/js/main.29e12a0f.chunk.js",
+    "main.js.map": "/test_task_solution/static/js/main.29e12a0f.chunk.js.map",
+    "runtime-main.js": "/test_task_solution/static/js/runtime-main.b181de39.js",
+    "runtime-main.js.map": "/test_task_solution/static/js/runtime-main.b181de39.js.map",
+    "static/js/2.c8b7b292.chunk.js": "/test_task_solution/static/js/2.c8b7b292.chunk.js",
+    "static/js/2.c8b7b292.chunk.js.map": "/test_task_solution/static/js/2.c8b7b292.chunk.js.map",
+    "static/js/3.8cb472de.chunk.js": "/test_task_solution/static/js/3.8cb472de.chunk.js",
+    "static/js/3.8cb472de.chunk.js.map": "/test_task_solution/static/js/3.8cb472de.chunk.js.map",
+    "index.html": "/test_task_solution/index.html",
+    "static/css/main.fb753fb5.chunk.css.map": "/test_task_solution/static/css/main.fb753fb5.chunk.css.map",
+    "static/js/2.c8b7b292.chunk.js.LICENSE.txt": "/test_task_solution/static/js/2.c8b7b292.chunk.js.LICENSE.txt",
+    "static/media/traderIcon.c591492c.png": "/test_task_solution/static/media/traderIcon.c591492c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b181de39.js",
+    "static/js/2.c8b7b292.chunk.js",
+    "static/css/main.fb753fb5.chunk.css",
+    "static/js/main.29e12a0f.chunk.js"
+  ]
+}
