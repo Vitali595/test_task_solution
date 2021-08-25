@@ -1,5 +1,6 @@
 {
   "name": "test_task_solution",
+  "homepage": "https://Vitali595.github.io/test_task_solution",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -15,6 +16,7 @@
     "@types/react-select": "^4.0.17",
     "axios": "^0.21.1",
     "chart.js": "^3.5.1",
+    "gh-pages": "^3.2.3",
     "react": "^17.0.2",
     "react-chartjs-2": "^3.0.4",
     "react-dom": "^17.0.2",
@@ -31,7 +33,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
