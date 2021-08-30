@@ -6,24 +6,28 @@
 }
 
 .trader {
-    width: 20%;
+    width: calc(25% - 57px);
     background-color: rgba(68, 70, 79, 0.5);
     border-radius: 3px;
     margin: 0 17px 20px 10px;
     padding: 10px 15px;
 }
 
-@media screen and (min-width: 1350px){
+@media screen and (max-width: 1000px){
     .trader {
-        flex: 0 0 21%;
-        width: 21%;
+        width: calc(33.33% - 57px);
     }
 }
 
-@media screen and (max-width: 1200px){
+@media screen and (max-width: 690px){
     .trader {
-        flex: 0 0 28%;
-        width: 28%;
+        width: calc(50% - 57px);
+    }
+}
+
+@media screen and (max-width: 490px){
+    .trader {
+        width: calc(100% - 57px);
     }
 }
 
